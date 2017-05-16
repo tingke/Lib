@@ -1,0 +1,326 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		BC3A8BE61E8F39B00064E999 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = BC3A8BE51E8F39B00064E999 /* main.m */; };
+		BC3A8BE91E8F39B00064E999 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = BC3A8BE81E8F39B00064E999 /* AppDelegate.m */; };
+		BC3A8BEC1E8F39B00064E999 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BC3A8BEB1E8F39B00064E999 /* ViewController.m */; };
+		BC3A8BEF1E8F39B00064E999 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BC3A8BED1E8F39B00064E999 /* Main.storyboard */; };
+		BC3A8BF11E8F39B00064E999 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BC3A8BF01E8F39B00064E999 /* Assets.xcassets */; };
+		BC3A8BF41E8F39B00064E999 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BC3A8BF21E8F39B00064E999 /* LaunchScreen.storyboard */; };
+		BC3A8C011E8F8E5F0064E999 /* newIcon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = BC3A8BFF1E8F8E5F0064E999 /* newIcon@2x.png */; };
+		BC3A8C021E8F8E5F0064E999 /* newIcon@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = BC3A8C001E8F8E5F0064E999 /* newIcon@3x.png */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		BC3A8BE11E8F39B00064E999 /* 10.3新特性：更换应用图标.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "10.3新特性：更换应用图标.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		BC3A8BE51E8F39B00064E999 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		BC3A8BE71E8F39B00064E999 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		BC3A8BE81E8F39B00064E999 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		BC3A8BEA1E8F39B00064E999 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		BC3A8BEB1E8F39B00064E999 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		BC3A8BEE1E8F39B00064E999 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		BC3A8BF01E8F39B00064E999 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		BC3A8BF31E8F39B00064E999 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		BC3A8BF51E8F39B00064E999 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BC3A8BFF1E8F8E5F0064E999 /* newIcon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "newIcon@2x.png"; sourceTree = "<group>"; };
+		BC3A8C001E8F8E5F0064E999 /* newIcon@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "newIcon@3x.png"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		BC3A8BDE1E8F39B00064E999 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		BC3A8BD81E8F39B00064E999 = {
+			isa = PBXGroup;
+			children = (
+				BC3A8BE31E8F39B00064E999 /* 10.3新特性：更换应用图标 */,
+				BC3A8BE21E8F39B00064E999 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		BC3A8BE21E8F39B00064E999 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				BC3A8BE11E8F39B00064E999 /* 10.3新特性：更换应用图标.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		BC3A8BE31E8F39B00064E999 /* 10.3新特性：更换应用图标 */ = {
+			isa = PBXGroup;
+			children = (
+				BC3A8BE71E8F39B00064E999 /* AppDelegate.h */,
+				BC3A8BE81E8F39B00064E999 /* AppDelegate.m */,
+				BC3A8BEA1E8F39B00064E999 /* ViewController.h */,
+				BC3A8BEB1E8F39B00064E999 /* ViewController.m */,
+				BC3A8BED1E8F39B00064E999 /* Main.storyboard */,
+				BC3A8BFF1E8F8E5F0064E999 /* newIcon@2x.png */,
+				BC3A8C001E8F8E5F0064E999 /* newIcon@3x.png */,
+				BC3A8BF01E8F39B00064E999 /* Assets.xcassets */,
+				BC3A8BF21E8F39B00064E999 /* LaunchScreen.storyboard */,
+				BC3A8BF51E8F39B00064E999 /* Info.plist */,
+				BC3A8BE41E8F39B00064E999 /* Supporting Files */,
+			);
+			path = "10.3新特性：更换应用图标";
+			sourceTree = "<group>";
+		};
+		BC3A8BE41E8F39B00064E999 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				BC3A8BE51E8F39B00064E999 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		BC3A8BE01E8F39B00064E999 /* 10.3新特性：更换应用图标 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = BC3A8BF81E8F39B00064E999 /* Build configuration list for PBXNativeTarget "10.3新特性：更换应用图标" */;
+			buildPhases = (
+				BC3A8BDD1E8F39B00064E999 /* Sources */,
+				BC3A8BDE1E8F39B00064E999 /* Frameworks */,
+				BC3A8BDF1E8F39B00064E999 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "10.3新特性：更换应用图标";
+			productName = "10.3新特性：更换应用图标";
+			productReference = BC3A8BE11E8F39B00064E999 /* 10.3新特性：更换应用图标.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		BC3A8BD91E8F39B00064E999 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0830;
+				ORGANIZATIONNAME = Tinker;
+				TargetAttributes = {
+					BC3A8BE01E8F39B00064E999 = {
+						CreatedOnToolsVersion = 8.3;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = BC3A8BDC1E8F39B00064E999 /* Build configuration list for PBXProject "10.3新特性：更换应用图标" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = BC3A8BD81E8F39B00064E999;
+			productRefGroup = BC3A8BE21E8F39B00064E999 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				BC3A8BE01E8F39B00064E999 /* 10.3新特性：更换应用图标 */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		BC3A8BDF1E8F39B00064E999 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BC3A8BF41E8F39B00064E999 /* LaunchScreen.storyboard in Resources */,
+				BC3A8BF11E8F39B00064E999 /* Assets.xcassets in Resources */,
+				BC3A8C021E8F8E5F0064E999 /* newIcon@3x.png in Resources */,
+				BC3A8C011E8F8E5F0064E999 /* newIcon@2x.png in Resources */,
+				BC3A8BEF1E8F39B00064E999 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		BC3A8BDD1E8F39B00064E999 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BC3A8BEC1E8F39B00064E999 /* ViewController.m in Sources */,
+				BC3A8BE91E8F39B00064E999 /* AppDelegate.m in Sources */,
+				BC3A8BE61E8F39B00064E999 /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		BC3A8BED1E8F39B00064E999 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				BC3A8BEE1E8F39B00064E999 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		BC3A8BF21E8F39B00064E999 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				BC3A8BF31E8F39B00064E999 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		BC3A8BF61E8F39B00064E999 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		BC3A8BF71E8F39B00064E999 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		BC3A8BF91E8F39B00064E999 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "10.3新特性：更换应用图标/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.liukun.-0-3----------";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		BC3A8BFA1E8F39B00064E999 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "10.3新特性：更换应用图标/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.liukun.-0-3----------";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		BC3A8BDC1E8F39B00064E999 /* Build configuration list for PBXProject "10.3新特性：更换应用图标" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BC3A8BF61E8F39B00064E999 /* Debug */,
+				BC3A8BF71E8F39B00064E999 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		BC3A8BF81E8F39B00064E999 /* Build configuration list for PBXNativeTarget "10.3新特性：更换应用图标" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BC3A8BF91E8F39B00064E999 /* Debug */,
+				BC3A8BFA1E8F39B00064E999 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = BC3A8BD91E8F39B00064E999 /* Project object */;
+}
