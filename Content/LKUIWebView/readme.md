@@ -13,5 +13,5 @@
 6. 请求异常提示
 
 效果图  
-![图片](http)
+![图片](https://github.com/tinker-liu/Lib/blob/master/Content/LKUIWebView/005.gif)
 
