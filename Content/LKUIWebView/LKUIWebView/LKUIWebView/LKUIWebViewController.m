@@ -335,9 +335,6 @@
     return _backBarButtonItem;
 }
 
-#pragma mark -
-#pragma mark - Setter
-
 
 
 @end
