@@ -1,6 +1,5 @@
 ## iOS-Source-Lib
 收集整理出常用的第三方框架，为以后的项目开发节省时间😄。排名不分先后！  
-abcdefghijklmnopqrstuvwxyz
 
 ### Objective-C版
 
