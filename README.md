@@ -6,30 +6,30 @@ abcdefghijklmnopqrstuvwxyz
 
 **版本更新**
 
-1. [LKUIVersion]() 根据app的BundleID查询App Stroe上的版本号与此时App的Version对比，提示版本更新
+1. [LKUIVersion]() - 根据app的BundleID查询App Stroe上的版本号与此时App的Version对比，提示版本更新
 
 **动画**
 
-1. [pop](https://github.com/facebook/pop) An extensible iOS and OS X animation library, useful for physics-based interactions.
-2. [lottie-ios](https://github.com/airbnb/lottie-ios) An iOS library to natively render After Effects vector animations
-3. [iCarousel](https://github.com/nicklockwood/iCarousel) A simple, highly customisable, data-driven 3D carousel for iOS and Mac OS
+1. [pop](https://github.com/facebook/pop) - An extensible iOS and OS X animation library, useful for physics-based interactions.
+2. [lottie-ios](https://github.com/airbnb/lottie-ios) - An iOS library to natively render After Effects vector animations
+3. [iCarousel](https://github.com/nicklockwood/iCarousel) - A simple, highly customisable, data-driven 3D carousel for iOS and Mac OS
 
 **定位**
 
-1. [LocationManager](https://github.com/intuit/LocationManager) Easily get the device's current location on iOS.
+1. [LocationManager](https://github.com/intuit/LocationManager) - Easily get the device's current location on iOS.
 
 
 **二维码生成与扫描**
 
-1. [LBXScan](https://github.com/MxABC/LBXScan) A barcode and qr code scanner (二维码、扫码、扫一扫、ZXing、ZBar、iOS系统AVFoundation扫码封装，扫码界面效果封装)
-2. [SGQRCode](https://github.com/kingsic/SGQRCode) iOS 原生二维码生成与扫描 -> 高仿微信
+1. [LBXScan](https://github.com/MxABC/LBXScan) - A barcode and qr code scanner (二维码、扫码、扫一扫、ZXing、ZBar、iOS系统AVFoundation扫码封装，扫码界面效果封装)
+2. [SGQRCode](https://github.com/kingsic/SGQRCode) - iOS 原生二维码生成与扫描 -> 高仿微信
 
 **HUD**
 
-1. [MBProgressHUD](https://github.com/jdg/MBProgressHUD) MBProgressHUD is an iOS drop-in class that displays a translucent HUD with an indicator and/or labels while work is being done in a background thread.
-2. [SVProgressHUD](https://github.com/SVProgressHUD/SVProgressHUD) A clean and lightweight progress HUD for your iOS and tvOS app.
-3. [DGActivityIndicatorView](https://github.com/gontovnik/DGActivityIndicatorView) DGActivityIndicatorView is a great way to make loading spinners in your application look nicer. It contains 32 different indicator view styles.
-4. [JHUD](https://github.com/Jinxiansen/JHUD) A full screen of the HUD when loading the data (Objective-C).
+1. [MBProgressHUD](https://github.com/jdg/MBProgressHUD) - MBProgressHUD is an iOS drop-in class that displays a translucent HUD with an indicator and/or labels while work is being done in a background thread.
+2. [SVProgressHUD](https://github.com/SVProgressHUD/SVProgressHUD) - A clean and lightweight progress HUD for your iOS and tvOS app.
+3. [DGActivityIndicatorView](https://github.com/gontovnik/DGActivityIndicatorView) - DGActivityIndicatorView is a great way to make loading spinners in your application look nicer. It contains 32 different indicator view styles.
+4. [JHUD](https://github.com/Jinxiansen/JHUD) - A full screen of the HUD when loading the data (Objective-C).
 
 **IM即时通讯**
 
